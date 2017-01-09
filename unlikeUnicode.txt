@@ -1,0 +1,245 @@
+﻿ᠢ: ᠨᠠᠢᠮᠠ oyun menk
+ᠢ+fvs1: ᠨᠠᠢ᠋ᠮᠠ
+ᠢ+fvs2: ᠨᠠᠢ᠌ᠮᠠ menk micro oyun
+ᠢ+fvs3: ᠨᠠᠢ᠍ᠮᠠ menk delhi
+ᠶ: ᠨᠠᠶᠮᠠ micro oyun menk
+ᠶ+fvs1: ᠨᠠᠶ᠋ᠮᠠ micro delhi
+ᠶ+fvs2: ᠨᠠᠶ᠌ᠮᠠ menk
+ᠶ+fvs3: ᠨᠠᠶ᠍ᠮᠠ micro menk oyun
+ᠶ+ᠢ: ᠨᠠᠶᠢᠮᠠ
+ᠶ+ᠢ+fvs1: ᠨᠠᠶᠢ᠋ᠮᠠ
+ᠶ+ᠢ+fvs2: ᠨᠠᠶᠢ᠌ᠮᠠ
+ᠶ+ᠢ+fvs3: ᠨᠠᠶᠢ᠍ᠮᠠ
+ᠶ+fvs1+ᠢ: ᠨᠠᠶ᠋ᠢᠮᠠ
+ᠶ+fvs1+ᠢ+fvs1: ᠨᠠᠶ᠋ᠢ᠋ᠮᠠ
+ᠶ+fvs1+ᠢ+fvs2: ᠨᠠᠶ᠋ᠢ᠌ᠮᠠ
+ᠶ+fvs1+ᠢ+fvs3: ᠨᠠᠶ᠋ᠢ᠍ᠮᠠ
+ᠶ+fvs2+ᠢ: ᠨᠠᠶ᠌ᠢᠮᠠ
+ᠶ+fvs2+ᠢ+fvs1: ᠨᠠᠶ᠌ᠢ᠋ᠮᠠ
+ᠶ+fvs2+ᠢ+fvs2: ᠨᠠᠶ᠌ᠢ᠌ᠮᠠ
+ᠶ+fvs2+ᠢ+fvs3: ᠨᠠᠶ᠌ᠢ᠍ᠮᠠ
+ᠶ+fvs3+ᠢ: ᠨᠠᠶ᠍ᠢᠮᠠ
+ᠶ+fvs3+ᠢ+fvs1: ᠨᠠᠶ᠍ᠢ᠋ᠮᠠ
+ᠶ+fvs3+ᠢ+fvs2: ᠨᠠᠶ᠍ᠢ᠌ᠮᠠ
+ᠶ+fvs3+ᠢ+fvs3: ᠨᠠᠶ᠍ᠢ᠍ᠮᠠ
+ᠢ+ᠶ: ᠨᠠᠢᠶᠮᠠ
+ᠢ+ᠶ+fvs1: ᠨᠠᠢᠶ᠋ᠮᠠ
+ᠢ+ᠶ+fvs2: ᠨᠠᠢᠶ᠌ᠮᠠ
+ᠢ+ᠶ+fvs3: ᠨᠠᠢᠶ᠍ᠮᠠ
+ᠢ+fvs1+ᠶ: ᠨᠠᠢ᠋ᠶᠮᠠ
+ᠢ+fvs1+ᠶ+fvs1: ᠨᠠᠢ᠋ᠶ᠋ᠮᠠ
+ᠢ+fvs1+ᠶ+fvs2: ᠨᠠᠢ᠋ᠶ᠌ᠮᠠ
+ᠢ+fvs1+ᠶ+fvs3: ᠨᠠᠢ᠋ᠶ᠍ᠮᠠ
+ᠢ+fvs2+ᠶ: ᠨᠠᠢ᠌ᠶᠮᠠ
+ᠢ+fvs2+ᠶ+fvs1: ᠨᠠᠢ᠌ᠶ᠋ᠮᠠ
+ᠢ+fvs2+ᠶ+fvs2: ᠨᠠᠢ᠌ᠶ᠌ᠮᠠ
+ᠢ+fvs2+ᠶ+fvs3: ᠨᠠᠢ᠌ᠶ᠍ᠮᠠ
+ᠢ+fvs3+ᠶ: ᠨᠠᠢ᠍ᠶᠮᠠ
+ᠢ+fvs3+ᠶ+fvs1: ᠨᠠᠢ᠍ᠶ᠋ᠮᠠ
+ᠢ+fvs3+ᠶ+fvs2: ᠨᠠᠢ᠍ᠶ᠌ᠮᠠ
+ᠢ+fvs3+ᠶ+fvs3: ᠨᠠᠢ᠍ᠶ᠍ᠮᠠ
+ᠢ+ᠢ: ᠨᠠᠢᠢᠮᠠ
+ᠢ+ᠢ+fvs1: ᠨᠠᠢᠢ᠋ᠮᠠ
+ᠢ+ᠢ+fvs2: ᠨᠠᠢᠢ᠌ᠮᠠ
+ᠢ+ᠢ+fvs3: ᠨᠠᠢᠢ᠍ᠮᠠ
+ᠢ+fvs1+ᠢ: ᠨᠠᠢ᠋ᠢᠮᠠ
+ᠢ+fvs1+ᠢ+fvs1: ᠨᠠᠢ᠋ᠢ᠋ᠮᠠ
+ᠢ+fvs1+ᠢ+fvs2: ᠨᠠᠢ᠋ᠢ᠌ᠮᠠ
+ᠢ+fvs1+ᠢ+fvs3: ᠨᠠᠢ᠋ᠢ᠍ᠮᠠ
+ᠢ+fvs2+ᠢ: ᠨᠠᠢ᠌ᠢᠮᠠ
+ᠢ+fvs2+ᠢ+fvs1: ᠨᠠᠢ᠌ᠢ᠋ᠮᠠ
+ᠢ+fvs2+ᠢ+fvs2: ᠨᠠᠢ᠌ᠢ᠌ᠮᠠ
+ᠢ+fvs2+ᠢ+fvs3: ᠨᠠᠢ᠌ᠢ᠍ᠮᠠ
+ᠢ+fvs3+ᠢ: ᠨᠠᠢ᠍ᠢᠮᠠ
+ᠢ+fvs3+ᠢ+fvs1: ᠨᠠᠢ᠍ᠢ᠋ᠮᠠ
+ᠢ+fvs3+ᠢ+fvs2: ᠨᠠᠢ᠍ᠢ᠌ᠮᠠ
+ᠢ+fvs3+ᠢ+fvs3: ᠨᠠᠢ᠍ᠢ᠍ᠮᠠ
+ᠶ+ᠶ: ᠨᠠᠶᠶᠮᠠ
+ᠶ+ᠶ+fvs1: ᠨᠠᠶᠶ᠋ᠮᠠ
+ᠶ+ᠶ+fvs2: ᠨᠠᠶᠶ᠌ᠮᠠ
+ᠶ+ᠶ+fvs3: ᠨᠠᠶᠶ᠍ᠮᠠ
+ᠶ+fvs1+ᠶ: ᠨᠠᠶ᠋ᠶᠮᠠ
+ᠶ+fvs1+ᠶ+fvs1: ᠨᠠᠶ᠋ᠶ᠋ᠮᠠ
+ᠶ+fvs1+ᠶ+fvs2: ᠨᠠᠶ᠋ᠶ᠌ᠮᠠ
+ᠶ+fvs1+ᠶ+fvs3: ᠨᠠᠶ᠋ᠶ᠍ᠮᠠ
+ᠶ+fvs2+ᠶ: ᠨᠠᠶ᠌ᠶᠮᠠ
+ᠶ+fvs2+ᠶ+fvs1: ᠨᠠᠶ᠌ᠶ᠋ᠮᠠ
+ᠶ+fvs2+ᠶ+fvs2: ᠨᠠᠶ᠌ᠶ᠌ᠮᠠ
+ᠶ+fvs2+ᠶ+fvs3: ᠨᠠᠶ᠌ᠶ᠍ᠮᠠ
+ᠶ+fvs3+ᠶ: ᠨᠠᠶ᠍ᠶᠮᠠ
+ᠶ+fvs3+ᠶ+fvs1: ᠨᠠᠶ᠍ᠶ᠋ᠮᠠ
+ᠶ+fvs3+ᠶ+fvs2: ᠨᠠᠶ᠍ᠶ᠌ᠮᠠ
+ᠶ+fvs3+ᠶ+fvs3: ᠨᠠᠶ᠍ᠶ᠍ᠮᠠ
+-------------------------------------------------------------------------------------------------
+ᠢ: ᠠᠢᠯ oyun micro delhi
+ᠢ+fvs1: ᠠᠢ᠋ᠯ
+ᠢ+fvs2: ᠠᠢ᠌ᠯ delhi
+ᠢ+fvs3: ᠠᠢ᠍ᠯ micro oyun 
+ᠶ: ᠠᠶᠯ
+ᠶ+fvs1: ᠠᠶ᠋ᠯ
+ᠶ+fvs2: ᠠᠶ᠌ᠯ
+ᠶ+fvs3: ᠠᠶ᠍ᠯ
+ᠢ+ᠢ: ᠠᠢᠢᠯ menk
+ᠢ+ᠢ+fvs1: ᠠᠢᠢ᠋ᠯ
+ᠢ+ᠢ+fvs2: ᠠᠢᠢ᠌ᠯ menk
+ᠢ+ᠢ+fvs3: ᠠᠢᠢ᠍ᠯ menk
+ᠢ+fvs1+ᠢ: ᠠᠢ᠋ᠢᠯ
+ᠢ+fvs1+ᠢ+fvs1: ᠠᠢ᠋ᠢ᠋ᠯ
+ᠢ+fvs1+ᠢ+fvs2: ᠠᠢ᠋ᠢ᠌ᠯ
+ᠢ+fvs1+ᠢ+fvs3: ᠠᠢ᠋ᠢ᠍ᠯ
+ᠢ+fvs2+ᠢ: ᠠᠢ᠌ᠢᠯ micro menk oyun
+ᠢ+fvs2+ᠢ+fvs1: ᠠᠢ᠌ᠢ᠋ᠯ
+ᠢ+fvs2+ᠢ+fvs2: ᠠᠢ᠌ᠢ᠌ᠯ micro menk oyun
+ᠢ+fvs2+ᠢ+fvs3: ᠠᠢ᠌ᠢ᠍ᠯ micro menk oyun
+ᠢ+fvs3+ᠢ: ᠠᠢ᠍ᠢᠯ delhi menk
+ᠢ+fvs3+ᠢ+fvs1: ᠠᠢ᠍ᠢ᠋ᠯ
+ᠢ+fvs3+ᠢ+fvs2: ᠠᠢ᠍ᠢ᠌ᠯ menk
+ᠢ+fvs3+ᠢ+fvs3: ᠠᠢ᠍ᠢ᠍ᠯ delhi menk
+ᠶ+ᠶ: ᠠᠶᠶᠯ micro menk oyun
+ᠶ+ᠶ+fvs1: ᠠᠶᠶ᠋ᠯ micro
+ᠶ+ᠶ+fvs2: ᠠᠶᠶ᠌ᠯ menk
+ᠶ+ᠶ+fvs3: ᠠᠶᠶ᠍ᠯ micro menk oyun
+ᠶ+fvs1+ᠶ: ᠠᠶ᠋ᠶᠯ micro
+ᠶ+fvs1+ᠶ+fvs1: ᠠᠶ᠋ᠶ᠋ᠯ delhi micro
+ᠶ+fvs1+ᠶ+fvs2: ᠠᠶ᠋ᠶ᠌ᠯ
+ᠶ+fvs1+ᠶ+fvs3: ᠠᠶ᠋ᠶ᠍ᠯ micro
+ᠶ+fvs2+ᠶ: ᠠᠶ᠌ᠶᠯ menk
+ᠶ+fvs2+ᠶ+fvs1: ᠠᠶ᠌ᠶ᠋ᠯ
+ᠶ+fvs2+ᠶ+fvs2: ᠠᠶ᠌ᠶ᠌ᠯ menk
+ᠶ+fvs2+ᠶ+fvs3: ᠠᠶ᠌ᠶ᠍ᠯ menk
+ᠶ+fvs3+ᠶ: ᠠᠶ᠍ᠶᠯ menk micro oyun
+ᠶ+fvs3+ᠶ+fvs1: ᠠᠶ᠍ᠶ᠋ᠯ micro
+ᠶ+fvs3+ᠶ+fvs2: ᠠᠶ᠍ᠶ᠌ᠯ menk
+ᠶ+fvs3+ᠶ+fvs3: ᠠᠶ᠍ᠶ᠍ᠯ oyun micro menk
+ᠶ+ᠢ: ᠠᠶᠢᠯ menk oyun micro
+ᠶ+ᠢ+fvs1: ᠠᠶᠢ᠋ᠯ
+ᠶ+ᠢ+fvs2: ᠠᠶᠢ᠌ᠯ micro oyun menk
+ᠶ+ᠢ+fvs3: ᠠᠶᠢ᠍ᠯ menk micro oyun
+ᠶ+fvs1+ᠢ: ᠠᠶ᠋ᠢᠯ delhi
+ᠶ+fvs1+ᠢ+fvs1: ᠠᠶ᠋ᠢ᠋ᠯ
+ᠶ+fvs1+ᠢ+fvs2: ᠠᠶ᠋ᠢ᠌ᠯ
+ᠶ+fvs1+ᠢ+fvs3: ᠠᠶ᠋ᠢ᠍ᠯ
+ᠶ+fvs2+ᠢ: ᠠᠶ᠌ᠢᠯ menk
+ᠶ+fvs2+ᠢ+fvs1: ᠠᠶ᠌ᠢ᠋ᠯ
+ᠶ+fvs2+ᠢ+fvs2: ᠠᠶ᠌ᠢ᠌ᠯ menk
+ᠶ+fvs2+ᠢ+fvs3: ᠠᠶ᠌ᠢ᠍ᠯ menk
+ᠶ+fvs3+ᠢ: ᠠᠶ᠍ᠢᠯ micro oyun menk
+ᠶ+fvs3+ᠢ+fvs1: ᠠᠶ᠍ᠢ᠋ᠯ
+ᠶ+fvs3+ᠢ+fvs2: ᠠᠶ᠍ᠢ᠌ᠯ micro oyun menk
+ᠶ+fvs3+ᠢ+fvs3: ᠠᠶ᠍ᠢ᠍ᠯ micro menk oyun
+ᠢ+ᠶ: ᠠᠢᠶᠯ menk
+ᠢ+ᠶ+fvs1: ᠠᠢᠶ᠋ᠯ
+ᠢ+ᠶ+fvs2: ᠠᠢᠶ᠌ᠯ menk
+ᠢ+ᠶ+fvs3: ᠠᠢᠶ᠍ᠯ menk
+ᠢ+fvs1+ᠶ: ᠠᠢ᠋ᠶᠯ
+ᠢ+fvs1+ᠶ+fvs1: ᠠᠢ᠋ᠶ᠋ᠯ
+ᠢ+fvs1+ᠶ+fvs2: ᠠᠢ᠋ᠶ᠌ᠯ
+ᠢ+fvs1+ᠶ+fvs3: ᠠᠢ᠋ᠶ᠍ᠯ
+ᠢ+fvs2+ᠶ: ᠠᠢ᠌ᠶᠯ micro oyun menk
+ᠢ+fvs2+ᠶ+fvs1: ᠠᠢ᠌ᠶ᠋ᠯ micro
+ᠢ+fvs2+ᠶ+fvs2: ᠠᠢ᠌ᠶ᠌ᠯ menk
+ᠢ+fvs2+ᠶ+fvs3: ᠠᠢ᠌ᠶ᠍ᠯ oyun micro menk
+ᠢ+fvs3+ᠶ: ᠠᠢ᠍ᠶᠯ menk
+ᠢ+fvs3+ᠶ+fvs1: ᠠᠢ᠍ᠶ᠋ᠯ delhi
+ᠢ+fvs3+ᠶ+fvs2: ᠠᠢ᠍ᠶ᠌ᠯ menk
+ᠢ+fvs3+ᠶ+fvs3: ᠠᠢ᠍ᠶ᠍ᠯ menk
+-----------------------------------------------------
+ᠢ: ᠭᠢᠯᠦᠢᠬᠦ oyun delhi micro
+ᠢ+fvs1: ᠭᠢᠯᠦᠢ᠋ᠬᠦ
+ᠢ+fvs2: ᠭᠢᠯᠦᠢ᠌ᠬᠦ oyun delhi
+ᠢ+fvs3: ᠭᠢᠯᠦᠢ᠍ᠬᠦ oyun micro
+ᠶ: ᠭᠢᠯᠦᠶᠬᠦ
+ᠶ+fvs1: ᠭᠢᠯᠦᠶ᠋ᠬᠦ
+ᠶ+fvs2: ᠭᠢᠯᠦᠶ᠌ᠬᠦ
+ᠶ+fvs3: ᠭᠢᠯᠦᠶ᠍ᠬᠦ
+ᠢ+ᠢ: ᠭᠢᠯᠦᠢᠢᠬᠦ menk
+ᠢ+ᠢ+fvs1: ᠭᠢᠯᠦᠢᠢ᠋ᠬᠦ
+ᠢ+ᠢ+fvs2: ᠭᠢᠯᠦᠢᠢ᠌ᠬᠦ menk
+ᠢ+ᠢ+fvs3: ᠭᠢᠯᠦᠢᠢ᠍ᠬᠦ menk
+ᠢ+fvs1+ᠢ: ᠭᠢᠯᠦᠢ᠋ᠢᠬᠦ
+ᠢ+fvs1+ᠢ+fvs1: ᠭᠢᠯᠦᠢ᠋ᠢ᠋ᠬᠦ
+ᠢ+fvs1+ᠢ+fvs2: ᠭᠢᠯᠦᠢ᠋ᠢ᠌ᠬᠦ menk
+ᠢ+fvs1+ᠢ+fvs3: ᠭᠢᠯᠦᠢ᠋ᠢ᠍ᠬᠦ
+ᠢ+fvs2+ᠢ: ᠭᠢᠯᠦᠢ᠌ᠢᠬᠦ micro menk
+ᠢ+fvs2+ᠢ+fvs1: ᠭᠢᠯᠦᠢ᠌ᠢ᠋ᠬᠦ
+ᠢ+fvs2+ᠢ+fvs2: ᠭᠢᠯᠦᠢ᠌ᠢ᠌ᠬᠦ micro menk
+ᠢ+fvs2+ᠢ+fvs3: ᠭᠢᠯᠦᠢ᠌ᠢ᠍ᠬᠦ micro menk
+ᠢ+fvs3+ᠢ: ᠭᠢᠯᠦᠢ᠍ᠢᠬᠦ delhi menk
+ᠢ+fvs3+ᠢ+fvs1: ᠭᠢᠯᠦᠢ᠍ᠢ᠋ᠬᠦ
+ᠢ+fvs3+ᠢ+fvs2: ᠭᠢᠯᠦᠢ᠍ᠢ᠌ᠬᠦ
+ᠢ+fvs3+ᠢ+fvs3: ᠭᠢᠯᠦᠢ᠍ᠢ᠍ᠬᠦ delhi menk
+ᠢ+ᠶ: ᠭᠢᠯᠦᠢᠶᠬᠦ menk
+ᠢ+ᠶ+fvs1: ᠭᠢᠯᠦᠢᠶ᠋ᠬᠦ
+ᠢ+ᠶ+fvs2: ᠭᠢᠯᠦᠢᠶ᠌ᠬᠦ menk
+ᠢ+ᠶ+fvs3: ᠭᠢᠯᠦᠢᠶ᠍ᠬᠦ menk
+ᠢ+fvs1+ᠶ: ᠭᠢᠯᠦᠢ᠋ᠶᠬᠦ
+ᠢ+fvs1+ᠶ+fvs1: ᠭᠢᠯᠦᠢ᠋ᠶ᠋ᠬᠦ
+ᠢ+fvs1+ᠶ+fvs2: ᠭᠢᠯᠦᠢ᠋ᠶ᠌ᠬᠦ
+ᠢ+fvs1+ᠶ+fvs3: ᠭᠢᠯᠦᠢ᠋ᠶ᠍ᠬᠦ
+ᠢ+fvs2+ᠶ: ᠭᠢᠯᠦᠢ᠌ᠶᠬᠦ micro menk
+ᠢ+fvs2+ᠶ+fvs1: ᠭᠢᠯᠦᠢ᠌ᠶ᠋ᠬᠦ micro
+ᠢ+fvs2+ᠶ+fvs2: ᠭᠢᠯᠦᠢ᠌ᠶ᠌ᠬᠦ
+ᠢ+fvs2+ᠶ+fvs3: ᠭᠢᠯᠦᠢ᠌ᠶ᠍ᠬᠦ micro menk
+ᠢ+fvs3+ᠶ: ᠭᠢᠯᠦᠢ᠍ᠶᠬᠦ menk
+ᠢ+fvs3+ᠶ+fvs1: ᠭᠢᠯᠦᠢ᠍ᠶ᠋ᠬᠦ delhi
+ᠢ+fvs3+ᠶ+fvs2: ᠭᠢᠯᠦᠢ᠍ᠶ᠌ᠬᠦ menk
+ᠢ+fvs3+ᠶ+fvs3: ᠭᠢᠯᠦᠢ᠍ᠶ᠍ᠬᠦ menk
+ᠶ+ᠶ: ᠭᠢᠯᠦᠶᠶᠬᠦ oyun micro menk
+ᠶ+ᠶ+fvs1: ᠭᠢᠯᠦᠶᠶ᠋ᠬᠦ micro
+ᠶ+ᠶ+fvs2: ᠭᠢᠯᠦᠶᠶ᠌ᠬᠦ menk
+ᠶ+ᠶ+fvs3: ᠭᠢᠯᠦᠶᠶ᠍ᠬᠦ oyun micro menk
+ᠶ+fvs1+ᠶ: ᠭᠢᠯᠦᠶ᠋ᠶᠬᠦ micro
+ᠶ+fvs1+ᠶ+fvs1: ᠭᠢᠯᠦᠶ᠋ᠶ᠋ᠬᠦ delhi micro
+ᠶ+fvs1+ᠶ+fvs2: ᠭᠢᠯᠦᠶ᠋ᠶ᠌ᠬᠦ
+ᠶ+fvs1+ᠶ+fvs3: ᠭᠢᠯᠦᠶ᠋ᠶ᠍ᠬᠦ micro
+ᠶ+fvs2+ᠶ: ᠭᠢᠯᠦᠶ᠌ᠶᠬᠦ menk
+ᠶ+fvs2+ᠶ+fvs1: ᠭᠢᠯᠦᠶ᠌ᠶ᠋ᠬᠦ
+ᠶ+fvs2+ᠶ+fvs2: ᠭᠢᠯᠦᠶ᠌ᠶ᠌ᠬᠦ menk
+ᠶ+fvs2+ᠶ+fvs3: ᠭᠢᠯᠦᠶ᠌ᠶ᠍ᠬᠦ menk
+ᠶ+fvs3+ᠶ: ᠭᠢᠯᠦᠶ᠍ᠶᠬᠦ oyun micro menk
+ᠶ+fvs3+ᠶ+fvs1: ᠭᠢᠯᠦᠶ᠍ᠶ᠋ᠬᠦ micro
+ᠶ+fvs3+ᠶ+fvs2: ᠭᠢᠯᠦᠶ᠍ᠶ᠌ᠬᠦ menk
+ᠶ+fvs3+ᠶ+fvs3: ᠭᠢᠯᠦᠶ᠍ᠶ᠍ᠬᠦ oyun micro menk
+ᠶ+ᠢ: ᠭᠢᠯᠦᠶᠢᠬᠦ oyun micro menk
+ᠶ+ᠢ+fvs1: ᠭᠢᠯᠦᠶᠢ᠋ᠬᠦ
+ᠶ+ᠢ+fvs2: ᠭᠢᠯᠦᠶᠢ᠌ᠬᠦ oyun micro menk
+ᠶ+ᠢ+fvs3: ᠭᠢᠯᠦᠶᠢ᠍ᠬᠦ oyun micro menk
+ᠶ+fvs1+ᠢ: ᠭᠢᠯᠦᠶ᠋ᠢᠬᠦ delhi
+ᠶ+fvs1+ᠢ+fvs1: ᠭᠢᠯᠦᠶ᠋ᠢ᠋ᠬᠦ
+ᠶ+fvs1+ᠢ+fvs2: ᠭᠢᠯᠦᠶ᠋ᠢ᠌ᠬᠦ
+ᠶ+fvs1+ᠢ+fvs3: ᠭᠢᠯᠦᠶ᠋ᠢ᠍ᠬᠦ delhi
+ᠶ+fvs2+ᠢ: ᠭᠢᠯᠦᠶ᠌ᠢᠬᠦ menk
+ᠶ+fvs2+ᠢ+fvs1: ᠭᠢᠯᠦᠶ᠌ᠢ᠋ᠬᠦ
+ᠶ+fvs2+ᠢ+fvs2: ᠭᠢᠯᠦᠶ᠌ᠢ᠌ᠬᠦ menk
+ᠶ+fvs2+ᠢ+fvs3: ᠭᠢᠯᠦᠶ᠌ᠢ᠍ᠬᠦ menk
+ᠶ+fvs3+ᠢ: ᠭᠢᠯᠦᠶ᠍ᠢᠬᠦ oyun micro menk
+ᠶ+fvs3+ᠢ+fvs1: ᠭᠢᠯᠦᠶ᠍ᠢ᠋ᠬᠦ
+ᠶ+fvs3+ᠢ+fvs2: ᠭᠢᠯᠦᠶ᠍ᠢ᠌ᠬᠦ oyun micro menk
+ᠶ+fvs3+ᠢ+fvs3: ᠭᠢᠯᠦᠶ᠍ᠢ᠍ᠬᠦ oyun micro menk
+---------------------------------------------------------------------------
+ᠣ: ᠨᠣ micro delhi oyun
+ᠣ+fvs1: ᠨᠣ᠋ menk
+ᠣ+fvs2: ᠨᠣ᠌ micro delhi oyun
+ᠣ+fvs3: ᠨᠣ᠍ micro delhi oyun
+
+ᠣ: ᠣᠣ menk micro delhi oyun
+ᠣ+fvs1: ᠣᠣ᠋
+ᠣ+fvs2: ᠣᠣ᠌ menk micro delhi oyun
+ᠣ+fvs3: ᠣᠣ᠍ menk micro delhi oyun
+
+----------------------------------------------------------------------------
+ᠨ: ᠨᠠᠰᠦᠨᠤ᠋ᠷᠲᠤ
+ᠨ+fvs1: ᠨᠠᠰᠦᠨ᠋ᠤ᠋ᠷᠲᠤ menk micro
+ᠨ+fvs2: ᠨᠠᠰᠦᠨ᠌ᠤ᠋ᠷᠲᠤ delhi
+ᠨ+fvs3: ᠨᠠᠰᠦᠨ᠍ᠤ᠋ᠷᠲᠤ delhi oyun
+
+-----------------------------------------------------------
+ᠭ: ᠳᠠᠳᠭᠠᠯ delhi micro
+ᠭ+fvs1: ᠳᠠᠳᠭ᠋ᠠᠯ oyun delhi menk micro
+ᠭ+fvs2: ᠳᠠᠳᠭ᠌ᠠᠯ oyun micro
+ᠭ+fvs3: ᠳᠠᠳᠭ᠍ᠠᠯ menk
+
+ᠭ: ᠳᠠᠰᠭᠠᠯ micro delhi
+ᠭ+fvs1: ᠳᠠᠰᠭ᠋ᠠᠯ micro delhi menk oyun
+ᠭ+fvs2: ᠳᠠᠰᠭ᠌ᠠᠯ micro oyun
+ᠭ+fvs3: ᠳᠠᠰᠭ᠍ᠠᠯ menk
