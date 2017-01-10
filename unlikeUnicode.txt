@@ -243,3 +243,65 @@
 ᠭ+fvs1: ᠳᠠᠰᠭ᠋ᠠᠯ micro delhi menk oyun
 ᠭ+fvs2: ᠳᠠᠰᠭ᠌ᠠᠯ micro oyun
 ᠭ+fvs3: ᠳᠠᠰᠭ᠍ᠠᠯ menk
+
+ᠭ: ᠪᠢᠯᠢᠭᠪᠠᠭᠠᠲᠤᠷ oyun  ᠠᠪᠠᠠᠠᠭᠪᠠᠭᠠᠲᠤᠷ ᠠᠢᠯᠢᠭᠪᠠᠭᠠᠲᠤᠷ ᠠᠯᠢᠭᠪᠠᠭᠠᠲᠦᠷ ᠡᠭᠪᠠᠭᠠᠲᠤᠷ ᠡᠯᠢᠭᠪᠠᠭᠠᠲᠤᠷ ᠳᠲᠲᠲᠲᠲᠲᠲᠲᠲᠲᠢᠭᠪᠠᠭᠠᠲᠤᠷ
+ᠭ+fvs1: ᠪᠢᠯᠢᠭ᠋ᠪᠠᠭᠠᠲᠤᠷ
+ᠭ+fvs2: ᠪᠢᠯᠢᠭ᠌ᠪᠠᠭᠠᠲᠤᠷ
+ᠭ+fvs3: ᠪᠢᠯᠢᠭ᠍ᠪᠠᠭᠠᠲᠤᠷ menk micro delhi
+ᠭ: ᠤᠭᠶᠤ
+ᠭ+fvs1: ᠤᠭ᠋ᠶᠤ
+ᠭ+fvs2: ᠤᠭ᠌ᠶᠤ
+ᠭ+fvs3: ᠤᠭ᠍ᠶᠤ delhi micro oyun menk
+
+ᠭ: ᠳᠠᠰᠭ᠎ᠠ delhi
+ᠭ+fvs1: ᠳᠠᠰᠭ᠋᠎ᠠ delhi micro menk oyun
+ᠭ+fvs2: ᠳᠠᠰᠭ᠌᠎ᠠ oyun
+ᠭ+fvs3: ᠳᠠᠰᠭ᠍᠎ᠠ delhi menk oyun
+ᠭ: ᠳᠠᠳᠭ᠎ᠠ delhi
+ᠭ+fvs1: ᠳᠠᠳᠭ᠋᠎ᠠ oyun delhi micro menk
+ᠭ+fvs2: ᠳᠠᠳᠭ᠌᠎ᠠ oyun
+ᠭ+fvs3: ᠳᠠᠳᠭ᠍᠎ᠠ oyun delhi menk
+
+            ᠰᠢᠭ                                        |
+ᠭ: ᠰᠢᠭ menk micro delhi oyun| delhi
+ᠭ+fvs1: ᠰᠢᠭ᠋                                  | oyun micro menk
+ᠭ+fvs2: ᠰᠢᠭ᠌  micro oyun         |
+ᠭ+fvs3: ᠰᠢᠭ᠍ menk delhi oyun| delhi
+
+             ᠪᠢᠯᠢᠭ(ᠪᠢᠯᠢᠭ᠌-delhi)                |
+ᠭ: ᠪᠢᠯᠢᠭ menk micro oyun         | delhi
+ᠭ+fvs1: ᠪᠢᠯᠢᠭ᠋                                | oyun micro menk
+ᠭ+fvs2: ᠪᠢᠯᠢᠭ᠌ micro delhi oyun|
+ᠭ+fvs3: ᠪᠢᠯᠢᠭ᠍ menk oyun            | delhi
+
+ᠭ: ᠨᠠᠭᠤᠨᠪᠢᠯᠢᠭ oyun
+ᠭ+fvs1: ᠨᠠᠭᠤᠨᠪᠢᠯᠢᠭ᠋
+ᠭ+fvs2: ᠨᠠᠭᠤᠨᠪᠢᠯᠢᠭ᠌ oyun menk micro delhi
+ᠭ+fvs3: ᠨᠠᠭᠤᠨᠪᠢᠯᠢᠭ᠍ oyun
+
+ᠭ: ᠴᠢᠩᠭ᠎ᠠ delhi menk oyun 
+ᠭ+fvs1: ᠴᠢᠩᠭ᠋᠎ᠠ delhi
+ᠭ+fvs2: ᠴᠢᠩᠭ᠌᠎ᠠ
+ᠭ+fvs3: ᠴᠢᠩᠭ᠍᠎ᠠ micro
+-------------------------------------------------------------
+ᠱ: ᠵᠢᠱᠢᠶ᠎ᠡ
+ᠱ+fvs1: ᠵᠢᠱ᠋ᠢᠶ᠎ᠡ
+ᠱ+fvs2: ᠵᠢᠱ᠌ᠢᠶ᠎ᠡ
+ᠱ+fvs3: ᠵᠢᠱ᠍ᠢᠶ᠎ᠡ
+
+ᠵ: ᠠᠮᠤᠶᠢᠵ᠎ᠠ oyun menk
+ᠵ+fvs1: ᠠᠮᠤᠶᠢᠵ᠋᠎ᠠ delhi
+ᠵ+fvs2: ᠠᠮᠤᠶᠢᠵ᠌᠎ᠠ
+ᠵ+fvs3: ᠠᠮᠤᠶᠢᠵ᠍᠎ᠠ
+
+----------------------------------------
+ᠶ: ᠰᠠᠶᠢᠬᠠᠨ delhi
+ᠶ+fvs1: ᠰᠠᠶ᠋ᠢᠬᠠᠨ menk micro oyun
+ᠶ+fvs2: ᠰᠠᠶ᠌ᠢᠬᠠᠨ delhi
+ᠶ+fvs3: ᠰᠠᠶ᠍ᠢᠬᠠᠨ menk micro delhi
+----------------------------------------
+ᠸ: ᠨᠠᠮᠢᠨᠤᠸ delhi micro
+ᠸ+fvs1: ᠨᠠᠮᠢᠨᠤᠸ᠋ oyun menk
+ᠸ+fvs2: ᠨᠠᠮᠢᠨᠤᠸ᠌ delhi micro
+ᠸ+fvs3: ᠨᠠᠮᠢᠨᠤᠸ᠍ delhi micro
+--------------
