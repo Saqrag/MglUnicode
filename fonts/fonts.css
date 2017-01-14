@@ -1,0 +1,19 @@
+@font-face {
+    font-family: micro;
+    src: url("./micro.ttf") format("OpenType");
+}
+
+@font-face {
+    font-family: menk;
+    src: url("./menk.ttf") format("OpenType");
+}
+
+@font-face {
+    font-family: oyun;
+    src: url("./oyun.ttf") format("OpenType");
+}
+
+@font-face {
+    font-family: delehi;
+    src: url("./delehi.ttf") format("OpenType");
+}

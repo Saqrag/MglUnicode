@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="mong">
+<head>
+    <meta charset="UTF-8">
+    <title>Enter Mongolian Text</title>
+    <style type="text/css">
+        @import "./fonts/fonts.css";
+
+        * {
+            margin: 0px;
+            padding: 0px;
+            font-family: micro, serif;
+            font-size: 30px;
+            -ms-writing-mode: tb-lr;
+            -moz-writing-mode: vertical-lr;
+            -webkit-writing-mode: vertical-lr;
+            -webkit-text-orientation: sideways-right;
+            -o-writing-mode: vertical-lr;
+            transform-origin: right top;
+            writing-mode: vertical-lr;
+            writing-mode: tb-lr;
+
+            word-wrap: break-word;
+            word-break: keep-all;
+            letter-spacing: -0.015em;
+            unicode-bidi: bidi-override;
+            direction: ltr;
+
+            /* Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36 */
+        }
+
+        textarea {
+            display: table-cell;
+        }
+
+        #vbox {
+            margin: 10px;
+        }
+
+        .text_area_origin {
+            height: 100%;
+            width: 300px;
+            max-width: 800px;
+        }
+
+        .choose_unicode p {
+            float: left;
+            margin-top: 10px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            color: #c0bcaf;
+            margin-left: 10px;
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+<div id="vbox">
+    <h1 style="font-size: 40px">Unicode ᠬᠦᠷᠪᠡᠭᠦᠯᠬᠦ</h1>
+    <textarea class="text_area_origin" placeholder="ᠬᠦᠷᠪᠡᠭᠦᠯᠬᠦ ᠠᠭᠤᠯᠭ᠎ᠠ ᠪᠠᠨ ᠨᠠᠭᠠᠷᠠᠢ"></textarea>
+    <div>
+        <div class="choose_unicode">
+            <p>unicode‌ ᠪᠠᠷᠢᠮᠵᠢᠶ᠎ᠠ ᠪᠠᠨ ᠰᠤᠩᠭᠤᠭᠠᠷᠠᠢ :</p>
+            <a style="background-color: aqua" onclick="onClick()">ᠮᠢᠺᠷᠣᠰᠥᠹᠲ ᠶᠢᠨ unicode</a>
+
+        </div>
+
+    </div>
+</div>
+<script type="text/javascript">
+function onClick() {
+    alert("lllllllllll");
+}
+</script>
+</body>
+</html>
